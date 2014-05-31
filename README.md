@@ -1,4 +1,4 @@
-Let-s-talk-about-Java-Script
+Let's talk about JavaScript
 ============================
 
 Examples for presentation about JavaScript
